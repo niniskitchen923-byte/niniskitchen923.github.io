@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Ayesh Kavinda
+title: Naruto Uzumaki
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Ayesh Kavinda's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Ayesh Kavinda
+    description: "This website hosts Naruto Uzumaki's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Naruto Uzumaki
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,9 +54,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Ayesh Kavinda
-          subtitle: "I’m a passionate developer focused on building clean, modern, and user-friendly digital experiences. I enjoy turning ideas into functional websites and applications that combine thoughtful design with efficient performance. From front-end interfaces to back-end logic, I’m constantly learning, experimenting, and improving my craft. My goal is to create projects that are not only visually appealing, but also meaningful, scalable, and impactful."
-          imageUrl: "picture.jpeg"
+          title: Naruto Uzumaki
+          subtitle: "I’m Naruto Uzumaki — ninja of the Hidden Leaf Village, future Hokage, and believer in never giving up. From mastering the Shadow Clone Jutsu to protecting my friends and village, my journey has been driven by determination, hard work, and the will to surpass every obstacle. I specialize in high-impact combat strategies, leadership under pressure, and bringing people together, no matter their past. Whether facing powerful enemies or chasing impossible dreams, I always stay true to my ninja way."
+          imageUrl: "how-to-draw-naruto-featured-image-1200.PNG"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -105,7 +105,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Ayesh Kavinda"
+      text: "Naruto Uzumaki"
       icon: favicon.ico
       iconHeight: 18
 

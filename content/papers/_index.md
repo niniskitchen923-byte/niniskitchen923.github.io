@@ -1,4 +1,4 @@
 ---
 title: "Papers"
-description: "Preprints and articles by Ayesh Kavinda."
+description: "Preprints and articles by Naruto Uzumaki."
 ---

@@ -2,7 +2,7 @@
 title: "Your Inner Hedgehog" 
 date: 2021-04-06
 tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Ayesh Kavinda"]
+author: ["Hilda Schreiber-Ziegler", "Naruto Uzumaki"]
 description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
 summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
 cover:
@@ -32,11 +32,11 @@ Using several case studies, this paper describes the inner hedgehog, a psycholog
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Ayesh Kavinda. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Schreiber-Ziegler, Hilda, and Naruto Uzumaki. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
 
 ```latex
 @article{SZI21,
-author = {Hilda Schreiber-Ziegler and Ayesh Kavinda},
+author = {Hilda Schreiber-Ziegler and Naruto Uzumaki},
 year = {2021},
 title ={Your Inner Hedgehog},
 journal = {Journal of Socio-Experimental Psychology},

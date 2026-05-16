@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Ayesh Kavinda's mailing and office addresses at the Institute of Romance Philology."
+description: "Naruto Uzumaki's mailing and office addresses at the Institute of Romance Philology."
 
 ---
 
@@ -10,7 +10,7 @@ description: "Ayesh Kavinda's mailing and office addresses at the Institute of R
 
 #### Mailing address
 
-Ayesh Kavinda  
+Naruto Uzumaki  
 Institute of Romance Philology  
 University of Regensburg  
 Regensburg, Germany

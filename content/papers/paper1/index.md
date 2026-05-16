@@ -2,7 +2,7 @@
 title: "Unusual Uses For Olive Oil" 
 date: 2013-01-15
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Ayesh Kavinda"]
+author: ["Detlev Amadeus Unterholzer","Naruto Uzumaki"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 cover:
@@ -39,11 +39,11 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Ayesh Kavinda. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Unterholzer, Detlev A., and  Naruto Uzumaki. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```latex
 @article{UI13,
-author = {Detlev A. Unterholzer and Ayesh Kavinda},
+author = {Detlev A. Unterholzer and Naruto Uzumaki},
 year = {2013},
 title ={Unusual Uses For Olive Oil},
 journal = {Journal of Oleic Science},
