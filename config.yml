@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Naruto Uzumaki
           subtitle: "I’m Naruto Uzumaki — ninja of the Hidden Leaf Village, future Hokage, and believer in never giving up. From mastering the Shadow Clone Jutsu to protecting my friends and village, my journey has been driven by determination, hard work, and the will to surpass every obstacle. I specialize in high-impact combat strategies, leadership under pressure, and bringing people together, no matter their past. Whether facing powerful enemies or chasing impossible dreams, I always stay true to my ninja way."
-          imageUrl: "picture.PNG"
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
