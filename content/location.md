@@ -11,9 +11,7 @@ description: "Naruto Uzumaki's mailing and office addresses at the Institute of 
 #### Mailing address
 
 Naruto Uzumaki  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Kandy Sri Lanka
 
 ---
 
